@@ -34,3 +34,4 @@ define('PUSH_SYNDICATION_KEY', 'this-is-a-randon-key')
 5. Registering Standalone WordPress Install
 6. Registering a WordPress.com Site
 7. Sitegroups Metabox
+
